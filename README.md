@@ -1,2 +1,1 @@
-# quiz-app
-update 
+# quiz-app using javascript
