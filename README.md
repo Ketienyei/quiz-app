@@ -1,2 +1,2 @@
 # quiz-app using javascript
-Update 
+Updating
